@@ -3,6 +3,4 @@ node {
 
     checkout scm
 
-   
-    }
 }    
