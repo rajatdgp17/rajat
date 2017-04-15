@@ -3,6 +3,6 @@ node {
 
     checkout scm
     stage 'Build'
-      sh 'test.sh'
+      sh './test.sh'
 
 }    
